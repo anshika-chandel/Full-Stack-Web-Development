@@ -958,3 +958,291 @@ var obj = [{
     "title": "et praesentium aliquam est",
     "completed": false
   },
+  {
+    "userId": 9,
+    "id": 161,
+    "title": "ex hic consequuntur earum omnis alias ut occaecati culpa",
+    "completed": true
+  },
+  {
+    "userId": 9,
+    "id": 162,
+    "title": "omnis laboriosam molestias animi sunt dolore",
+    "completed": true
+  },
+  {
+    "userId": 9,
+    "id": 163,
+    "title": "natus corrupti maxime laudantium et voluptatem laboriosam odit",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 164,
+    "title": "reprehenderit quos aut aut consequatur est sed",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 165,
+    "title": "fugiat perferendis sed aut quidem",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 166,
+    "title": "quos quo possimus suscipit minima ut",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 167,
+    "title": "et quis minus quo a asperiores molestiae",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 168,
+    "title": "recusandae quia qui sunt libero",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 169,
+    "title": "ea odio perferendis officiis",
+    "completed": true
+  },
+  {
+    "userId": 9,
+    "id": 170,
+    "title": "quisquam aliquam quia doloribus aut",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 171,
+    "title": "fugiat aut voluptatibus corrupti deleniti velit iste odio",
+    "completed": true
+  },
+  {
+    "userId": 9,
+    "id": 172,
+    "title": "et provident amet rerum consectetur et voluptatum",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 173,
+    "title": "harum ad aperiam quis",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 174,
+    "title": "similique aut quo",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 175,
+    "title": "laudantium eius officia perferendis provident perspiciatis asperiores",
+    "completed": true
+  },
+  {
+    "userId": 9,
+    "id": 176,
+    "title": "magni soluta corrupti ut maiores rem quidem",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 177,
+    "title": "et placeat temporibus voluptas est tempora quos quibusdam",
+    "completed": false
+  },
+  {
+    "userId": 9,
+    "id": 178,
+    "title": "nesciunt itaque commodi tempore",
+    "completed": true
+  },
+  {
+    "userId": 9,
+    "id": 179,
+    "title": "omnis consequuntur cupiditate impedit itaque ipsam quo",
+    "completed": true
+  },
+  {
+    "userId": 9,
+    "id": 180,
+    "title": "debitis nisi et dolorem repellat et",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 181,
+    "title": "ut cupiditate sequi aliquam fuga maiores",
+    "completed": false
+  },
+  {
+    "userId": 10,
+    "id": 182,
+    "title": "inventore saepe cumque et aut illum enim",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 183,
+    "title": "omnis nulla eum aliquam distinctio",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 184,
+    "title": "molestias modi perferendis perspiciatis",
+    "completed": false
+  },
+  {
+    "userId": 10,
+    "id": 185,
+    "title": "voluptates dignissimos sed doloribus animi quaerat aut",
+    "completed": false
+  },
+  {
+    "userId": 10,
+    "id": 186,
+    "title": "explicabo odio est et",
+    "completed": false
+  },
+  {
+    "userId": 10,
+    "id": 187,
+    "title": "consequuntur animi possimus",
+    "completed": false
+  },
+  {
+    "userId": 10,
+    "id": 188,
+    "title": "vel non beatae est",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 189,
+    "title": "culpa eius et voluptatem et",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 190,
+    "title": "accusamus sint iusto et voluptatem exercitationem",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 191,
+    "title": "temporibus atque distinctio omnis eius impedit tempore molestias pariatur",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 192,
+    "title": "ut quas possimus exercitationem sint voluptates",
+    "completed": false
+  },
+  {
+    "userId": 10,
+    "id": 193,
+    "title": "rerum debitis voluptatem qui eveniet tempora distinctio a",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 194,
+    "title": "sed ut vero sit molestiae",
+    "completed": false
+  },
+  {
+    "userId": 10,
+    "id": 195,
+    "title": "rerum ex veniam mollitia voluptatibus pariatur",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 196,
+    "title": "consequuntur aut ut fugit similique",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 197,
+    "title": "dignissimos quo nobis earum saepe",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 198,
+    "title": "quis eius est sint explicabo",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 199,
+    "title": "numquam repellendus a magnam",
+    "completed": true
+  },
+  {
+    "userId": 10,
+    "id": 200,
+    "title": "ipsam aperiam voluptates qui",
+    "completed": false
+  }];
+
+function parser()
+{
+  var max_id=0,min_id=0,count=0,max_count=Number.MIN_VALUE,min_count=Number.MIN_VALUE;
+  var max_counter=0,min_counter=0;
+  var max_array = [],min_array = [],min_temp = [],max_temp = [];
+  for(i=1;i<=10;++i)
+  {
+    max_counter=0;
+    min_counter=0;
+    min_temp = [];
+    max_temp = [];
+    for(x in obj)
+    {
+      if(obj[x]["userId"]==i)
+        {
+          if(obj[x]["completed"] == true)
+          {
+            ++max_counter;
+            max_temp.push(obj[x]["id"]);
+          }
+          else
+          {
+            min_temp.push(obj[x]["id"]);
+            ++min_counter;
+          }
+        }
+    }
+    if(max_counter>max_count)
+    {
+      max_array = max_temp;
+      max_count=max_counter;
+      max_id=i;
+    }
+    if(min_counter>min_count)
+    {
+      min_array = min_temp;
+      min_count=min_counter;
+      min_id=i;
+    }
+  }
+  document.getElementById('display').innerHTML = "Max ID:-" + max_id + "<br>";
+  document.getElementById('display').innerHTML += "Max Count:-" + max_count + "<br>";
+  document.getElementById('display').innerHTML += "All max Id :-" + max_array + "<br>";
+  document.getElementById('display').innerHTML += "Min ID:-" + min_id + "<br>";
+  document.getElementById('display').innerHTML += "Min Count:-" + min_count + "<br>";
+  document.getElementById('display').innerHTML += "All min Id :-" + min_array + "<br>";
+}
